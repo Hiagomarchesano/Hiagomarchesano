@@ -27,5 +27,5 @@ No meu GitHub, você encontrará projetos relacionados a automação de testes, 
 <div align="center">
   <h3> 🔗 Status on Github </h3>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiagomarchesano&count_private=true&show_icons=true&theme=default)](https://github.com/Hiagomarchesano/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoMarchesano&layout=compact)](https://github.com/Hiagomarchesano/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiagomarchesano&count_private=true&show_icons=true&theme=default)](https://github.com/Hiagomarchesano) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoMarchesano&layout=compact)](https://github.com/Hiagomarchesano)
 </div>
